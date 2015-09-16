@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:01:26.062998
+#+DATE: 2015-08-30 20:01:28.779405
 #+TITLE: 聖善住意天子所問經
 #+PROPERTY: CBETA_ID T12n0341
 #+PROPERTY: ID KR6f0033
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 341
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6f0033_T_002-0121b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
-
- 《聖善住意天子所問經》卷中¶
+《聖善住意天子所問經》卷中¶
 ¶
 元魏三藏毘目智仙共般若流支譯¶
 
@@ -492,8 +491,7 @@
 何云何？」
 
 文殊師利問言：「天子！於意云何？於¶
-虛空中鳥行動去，彼鳥跡相得言有行？不¶
-得言行？」
+虛空中鳥行動去，彼鳥跡相得言有行？不得言行？」
 
 天子言：「行。」
 
